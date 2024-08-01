@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "nombre": "Paella",
+        "tipo": "Plato principal",
+        "calorias": 380,
+        "vegetariana": false
+    },
+    {
+        "id": 2,
+        "nombre": "Sushi",
+        "tipo": "Aperitivo",
+        "calorias": 200,
+        "vegetariana": false
+    },
+    {
+        "id": 3,
+        "nombre": "Tacos",
+        "tipo": "Plato principal",
+        "calorias": 300,
+        "vegetariana": false
+    },
+    {
+        "id": 4,
+        "nombre": "Falafel",
+        "tipo": "Aperitivo",
+        "calorias": 340,
+        "vegetariana": true
+    },
+    {
+        "id": 5,
+        "nombre": "Pizza Margherita",
+        "tipo": "Plato principal",
+        "calorias": 270,
+        "vegetariana": true
+    },
+    {
+        "id": 6,
+        "nombre": "Ramen",
+        "tipo": "Plato principal",
+        "calorias": 450,
+        "vegetariana": false
+    },
+    {
+        "id": 7,
+        "nombre": "Churros",
+        "tipo": "Postre",
+        "calorias": 290,
+        "vegetariana": true
+    },
+    {
+        "id": 8,
+        "nombre": "Pho",
+        "tipo": "Plato principal",
+        "calorias": 350,
+        "vegetariana": false
+    },
+    {
+        "id": 9,
+        "nombre": "Currywurst",
+        "tipo": "Plato principal",
+        "calorias": 400,
+        "vegetariana": false
+    },
+    {
+        "id": 10,
+        "nombre": "Tiramisu",
+        "tipo": "Postre",
+        "calorias": 240,
+        "vegetariana": true
+    },
+    {
+        "id": 11,
+        "nombre": "Fish and Chips",
+        "tipo": "Plato principal",
+        "calorias": 600,
+        "vegetariana": false
+    },
+    {
+        "id": 12,
+        "nombre": "Pad Thai",
+        "tipo": "Plato principal",
+        "calorias": 300,
+        "vegetariana": true
+    },
+    {
+        "id": 13,
+        "nombre": "Baklava",
+        "tipo": "Postre",
+        "calorias": 430,
+        "vegetariana": true
+    },
+    {
+        "id": 14,
+        "nombre": "Biryani",
+        "tipo": "Plato principal",
+        "calorias": 470,
+        "vegetariana": false
+    },
+    {
+        "id": 15,
+        "nombre": "Khachapuri",
+        "tipo": "Plato principal",
+        "calorias": 300,
+        "vegetariana": true
+    },
+    {
+        "id": 16,
+        "nombre": "Poutine",
+        "tipo": "Plato principal",
+        "calorias": 740,
+        "vegetariana": false
+    },
+    {
+        "id": 17,
+        "nombre": "Kimchi",
+        "tipo": "Acompañamiento",
+        "calorias": 50,
+        "vegetariana": true
+    },
+    {
+        "id": 18,
+        "nombre": "Gyoza",
+        "tipo": "Aperitivo",
+        "calorias": 170,
+        "vegetariana": false
+    },
+    {
+        "id": 19,
+        "nombre": "Moussaka",
+        "tipo": "Plato principal",
+        "calorias": 560,
+        "vegetariana": false
+    },
+    {
+        "id": 20,
+        "nombre": "Hummus",
+        "tipo": "Acompañamiento",
+        "calorias": 160,
+        "vegetariana": true
+    },
+    {
+        "id": 21,
+        "nombre": "Pierogi",
+        "tipo": "Plato principal",
+        "calorias": 300,
+        "vegetariana": true
+    },
+    {
+        "id": 22,
+        "nombre": "Bruschetta",
+        "tipo": "Aperitivo",
+        "calorias": 180,
+        "vegetariana": true
+    },
+    {
+        "id": 23,
+        "nombre": "Laksa",
+        "tipo": "Plato principal",
+        "calorias": 600,
+        "vegetariana": false
+    },
+    {
+        "id": 24,
+        "nombre": "Bibimbap",
+        "tipo": "Plato principal",
+        "calorias": 550,
+        "vegetariana": false
+    },
+    {
+        "id": 25,
+        "nombre": "Tagine",
+        "tipo": "Plato principal",
+        "calorias": 500,
+        "vegetariana": true
+    },
+    {
+        "id": 26,
+        "nombre": "Fajitas",
+        "tipo": "Plato principal",
+        "calorias": 400,
+        "vegetariana": false
+    },
+    {
+        "id": 27,
+        "nombre": "Jambalaya",
+        "tipo": "Plato principal",
+        "calorias": 600,
+        "vegetariana": false
+    },
+    {
+        "id": 28,
+        "nombre": "Dolma",
+        "tipo": "Aperitivo",
+        "calorias": 350,
+        "vegetariana": true
+    },
+    {
+        "id": 29,
+        "nombre": "Risotto",
+        "tipo": "Plato principal",
+        "calorias": 400,
+        "vegetariana": true
+    },
+    {
+        "id": 30,
+        "nombre": "Samosa",
+        "tipo": "Aperitivo",
+        "calorias": 262,
+        "vegetariana": true
+    }
+]

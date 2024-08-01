@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fútbol",
+        "jugadores": 11,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 2,
+        "nombre": "Cricket",
+        "jugadores": 11,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 3,
+        "nombre": "Hockey",
+        "jugadores": 11,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 4,
+        "nombre": "Tenis",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Francia"
+    },
+    {
+        "id": 5,
+        "nombre": "Volleyball",
+        "jugadores": 6,
+        "popularidad": "Alta",
+        "origen": "Estados Unidos"
+    },
+    {
+        "id": 6,
+        "nombre": "Table Tennis",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 7,
+        "nombre": "Baseball",
+        "jugadores": 9,
+        "popularidad": "Alta",
+        "origen": "Estados Unidos"
+    },
+    {
+        "id": 8,
+        "nombre": "Golf",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Escocia"
+    },
+    {
+        "id": 9,
+        "nombre": "Basketball",
+        "jugadores": 5,
+        "popularidad": "Alta",
+        "origen": "Estados Unidos"
+    },
+    {
+        "id": 10,
+        "nombre": "American Football",
+        "jugadores": 11,
+        "popularidad": "Alta",
+        "origen": "Estados Unidos"
+    },
+    {
+        "id": 11,
+        "nombre": "Rugby",
+        "jugadores": 15,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 12,
+        "nombre": "Ice Hockey",
+        "jugadores": 6,
+        "popularidad": "Alta",
+        "origen": "Canadá"
+    },
+    {
+        "id": 13,
+        "nombre": "Boxing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 14,
+        "nombre": "Athletics",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Grecia"
+    },
+    {
+        "id": 15,
+        "nombre": "Swimming",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 16,
+        "nombre": "Badminton",
+        "jugadores": 2,
+        "popularidad": "Alta",
+        "origen": "India"
+    },
+    {
+        "id": 17,
+        "nombre": "Cycling",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Francia"
+    },
+    {
+        "id": 18,
+        "nombre": "Skiing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Noruega"
+    },
+    {
+        "id": 19,
+        "nombre": "Surfing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Hawái"
+    },
+    {
+        "id": 20,
+        "nombre": "Wrestling",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Grecia"
+    },
+    {
+        "id": 21,
+        "nombre": "Judo",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Japón"
+    },
+    {
+        "id": 22,
+        "nombre": "Karate",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Japón"
+    },
+    {
+        "id": 23,
+        "nombre": "Table Tennis",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Inglaterra"
+    },
+    {
+        "id": 24,
+        "nombre": "Taekwondo",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Corea del Sur"
+    },
+    {
+        "id": 25,
+        "nombre": "Handball",
+        "jugadores": 7,
+        "popularidad": "Alta",
+        "origen": "Alemania"
+    },
+    {
+        "id": 26,
+        "nombre": "Rowing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 27,
+        "nombre": "Snooker",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 28,
+        "nombre": "Darts",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 29,
+        "nombre": "Sailing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Reino Unido"
+    },
+    {
+        "id": 30,
+        "nombre": "Canoeing",
+        "jugadores": 1,
+        "popularidad": "Alta",
+        "origen": "Canadá"
+    }
+]
