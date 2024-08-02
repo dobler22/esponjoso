@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Gelato",
+    "price": 4.0,
+    "description": "Helado italiano, más denso y suave que el helado regular.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/CafeMia.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kulfi",
+    "price": 3.5,
+    "description": "Helado tradicional indio, hecho con leche espesada y saborizado con cardamomo, azafrán y nueces.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2016/04/Malai-Kulfi-Recipe-500x500.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sherbet",
+    "price": 3.0,
+    "description": "Postre helado hecho con jugo de frutas y leche.",
+    "image": "https://www.thespruceeats.com/thmb/O2QomtonGe207BJOxbNXec-Xd7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rainbow-sherbet-2500-57638b923df78c98dcd30fa9.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sorbet",
+    "price": 2.5,
+    "description": "Postre helado sin lácteos, hecho con azúcar y puré de frutas.",
+    "image": "https://www.thespruceeats.com/thmb/j8XrPyWFHCHE7dfmJuFdf_zuTxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-orange-sorbet-recipe-1945837-hero-01-02c52ae96bbe49f795a5ab997953c0ad.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Frozen Yogurt",
+    "price": 4.0,
+    "description": "Similar al helado, pero hecho con yogurt, tiene menos grasa y es más saludable.",
+    "image": "https://www.melskitchencafe.com/wp-content/uploads/2021/07/strawberry-frozen-yogurt5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Soft Serve",
+    "price": 3.0,
+    "description": "Helado suave y cremoso, servido directamente de una máquina.",
+    "image": "https://www.mashed.com/img/gallery/what-really-makes-soft-serve-taste-so-good/intro-1697150340.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Philadelphia Ice Cream",
+    "price": 4.5,
+    "description": "Helado sin huevos, más ligero y cremoso que otros tipos.",
+    "image": "https://static01.nyt.com/images/2017/06/12/dining/00Icecream19/00Icecream19-superJumbo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rolled Ice Cream",
+    "price": 5.0,
+    "description": "Helado tailandés, hecho enrollando una mezcla líquida en una plancha fría.",
+    "image": "https://thegirlinspired.com/wp-content/uploads/2022/08/How-to-Make-Rolled-Ice-Cream-sq.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Snow Cream",
+    "price": 3.5,
+    "description": "Postre helado hecho con nieve, leche condensada y saborizantes.",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/11/31/72/CGZrmSk6Qe2pLhMdrIcE_lody.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Granita",
+    "price": 2.5,
+    "description": "Postre helado italiano, hecho con agua, azúcar y jugo de frutas.",
+    "image": "https://jessicainthekitchen.com/wp-content/uploads/2019/06/Strawberry-Granita-8.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Faloodeh",
+    "price": 4.0,
+    "description": "Postre helado persa, hecho con fideos de harina de arroz, agua de rosas y jugo de limón.",
+    "image": "https://www.seriouseats.com/thmb/9LJe0ucGeujkEWMkLEIhP7LkcSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-Faloodeh-NaderMehravari-04-6cbf5851fbd64d26b58145aac1fbe6a7.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ice Cream Sandwich",
+    "price": 3.0,
+    "description": "Sándwich de helado, generalmente hecho con helado entre dos galletas.",
+    "image": "https://cravingsjournal.com/wp-content/uploads/2022/03/sandwich-de-helado-3-480x270.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Halo-Halo",
+    "price": 4.5,
+    "description": "Postre filipino, hecho con hielo raspado, leche y una variedad de ingredientes como frijoles, frutas y gelatinas.",
+    "image": "https://static01.nyt.com/images/2023/11/28/multimedia/ND-Halo-Halo-cglf/ND-Halo-Halo-cglf-superJumbo.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ais Kacang",
+    "price": 3.5,
+    "description": "Postre malayo, hecho con hielo raspado, jarabe dulce y varios ingredientes como frijoles rojos y gelatinas.",
+    "image": "https://asianinspirations.com.au/wp-content/uploads/2022/11/AK-4-Final.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Vegan Ice Cream",
+    "price": 5.0,
+    "description": "Helado sin lácteos, hecho con leches vegetales como almendra o coco.",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2018/07/IMG_12404-cropped2.jpg"
+  }
+]
