@@ -10,7 +10,12 @@
     "email": "juanperez@gmail.com",
     "contrasena": "password123",
     "rol": "administrador",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -24,7 +29,12 @@
     "email": "mariagomez@gmail.com",
     "contrasena": "password456",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": true},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -38,7 +48,12 @@
     "email": "luismartinez@gmail.com",
     "contrasena": "password789",
     "rol": "empleado",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -52,7 +67,12 @@
     "email": "analopez@gmail.com",
     "contrasena": "password101",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": true},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -66,7 +86,12 @@
     "email": "carloshernandez@gmail.com",
     "contrasena": "password102",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -80,7 +105,12 @@
     "email": "elenagarcia@gmail.com",
     "contrasena": "password103",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -94,7 +124,12 @@
     "email": "miguelfernandez@gmail.com",
     "contrasena": "password104",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": true},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -108,7 +143,12 @@
     "email": "lauramartinez@gmail.com",
     "contrasena": "password105",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -122,7 +162,12 @@
     "email": "pedrotorres@gmail.com",
     "contrasena": "password106",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -136,7 +181,12 @@
     "email": "sofiadiaz@gmail.com",
     "contrasena": "password107",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -150,7 +200,12 @@
     "email": "javierruiz@gmail.com",
     "contrasena": "password108",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": true},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -164,7 +219,12 @@
     "email": "martacastro@gmail.com",
     "contrasena": "password109",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -178,7 +238,12 @@
     "email": "fernandomorales@gmail.com",
     "contrasena": "password110",
     "rol": "empleado",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": false}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -192,7 +257,12 @@
     "email": "paularojas@gmail.com",
     "contrasena": "password111",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": false},
+      {"id": 2, "estado": true},
+      {"id": 3, "estado": false},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   },
   {
@@ -206,7 +276,12 @@
     "email": "diegosanchez@gmail.com",
     "contrasena": "password112",
     "rol": "usuario",
-    "insignias": [],
+    "insignias": [
+      {"id": 1, "estado": true},
+      {"id": 2, "estado": false},
+      {"id": 3, "estado": true},
+      {"id": 4, "estado": true}
+    ],
     "imagen": "https://e7.pngegg.com/pngimages/290/731/png-clipart-computer-icons-user-username-avatar-person.png"
   }
 ]
