@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nombre_usuario": "juanperez",
-        "puntos": 0,
+        "puntos": 58,
         "tarjetas_credito": [
             {
                 "numero": "4528 8914 1142 4454",
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "nombre_usuario": "luismartinez",
-        "puntos": 0,
+        "puntos": 85,
         "tarjetas_credito": [
             {
                 "numero": "4281 8836 3395 9488",
@@ -52,7 +52,7 @@
     {
         "id": 7,
         "nombre_usuario": "miguelfernandez",
-        "puntos": 0,
+        "puntos": 42,
         "tarjetas_credito": [
             {
                 "numero": "4911 4789 2921 3401",
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "nombre_usuario": "lauramartinez",
-        "puntos": 0,
+        "puntos": 75,
         "tarjetas_credito": [
             {
                 "numero": "4992 1481 3651 6097",
@@ -78,7 +78,7 @@
     {
         "id": 9,
         "nombre_usuario": "pedrotorres",
-        "puntos": 0,
+        "puntos": 90,
         "tarjetas_credito": [
             {
                 "numero": "4877 4808 8978 8524",
