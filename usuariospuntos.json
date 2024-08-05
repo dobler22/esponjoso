@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "nombre_usuario": "juanperez",
+        "puntos": 0,
+        "tarjetas_credito": [
+            {
+                "numero": "4528 8914 1142 4454",
+                "nombre": "Nombre en la tarjeta",
+                "fecha_expiracion": "06/27",
+                "cvv": "158"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre_usuario": "mariagomez",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 3,
+        "nombre_usuario": "luismartinez",
+        "puntos": 0,
+        "tarjetas_credito": [
+            {
+                "numero": "4281 8836 3395 9488",
+                "nombre": "Nombre en la tarjeta",
+                "fecha_expiracion": "08/23",
+                "cvv": "335"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre_usuario": "analopez",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 5,
+        "nombre_usuario": "carloshernandez",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 6,
+        "nombre_usuario": "elenagarcia",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 7,
+        "nombre_usuario": "miguelfernandez",
+        "puntos": 0,
+        "tarjetas_credito": [
+            {
+                "numero": "4911 4789 2921 3401",
+                "nombre": "Nombre en la tarjeta",
+                "fecha_expiracion": "06/25",
+                "cvv": "620"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre_usuario": "lauramartinez",
+        "puntos": 0,
+        "tarjetas_credito": [
+            {
+                "numero": "4992 1481 3651 6097",
+                "nombre": "Nombre en la tarjeta",
+                "fecha_expiracion": "06/29",
+                "cvv": "487"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nombre_usuario": "pedrotorres",
+        "puntos": 0,
+        "tarjetas_credito": [
+            {
+                "numero": "4877 4808 8978 8524",
+                "nombre": "Nombre en la tarjeta",
+                "fecha_expiracion": "08/28",
+                "cvv": "872"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nombre_usuario": "sofiadiaz",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 11,
+        "nombre_usuario": "javierruiz",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 12,
+        "nombre_usuario": "martacastro",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 13,
+        "nombre_usuario": "fernandomorales",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 14,
+        "nombre_usuario": "paularojas",
+        "puntos": 0,
+        "tarjetas_credito": []
+    },
+    {
+        "id": 15,
+        "nombre_usuario": "diegosanchez",
+        "puntos": 0,
+        "tarjetas_credito": []
+    }
+]
