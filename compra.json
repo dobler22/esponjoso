@@ -1,0 +1,2100 @@
+[
+    {
+        "id_factura": 1,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 2,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "mariagomez",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 3,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "juanperez",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 1,
+                "precio_unitario": 2.5,
+                "precio_total": 2.5
+            },
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 5,
+                "precio_unitario": 3.5,
+                "precio_total": 17.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 4,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 5,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "paularojas",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 6,
+        "fecha": "2024-08-01",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 7,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 8,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 3,
+                "precio_unitario": 2.5,
+                "precio_total": 7.5
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 3,
+                "precio_unitario": 2.5,
+                "precio_total": 7.5
+            },
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 3,
+                "precio_unitario": 2.5,
+                "precio_total": 7.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 9,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 2,
+                "precio_unitario": 4.5,
+                "precio_total": 9.0
+            },
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 10,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 11,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 4.5,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 12,
+        "fecha": "2024-08-03",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            },
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 4.5,
+                "precio_total": 13.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 13,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 14,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 15,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            },
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 16,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 5,
+                "precio_unitario": 3.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 2,
+                "precio_unitario": 4.5,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 17,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 5,
+                "precio_unitario": 3.5,
+                "precio_total": 17.5
+            },
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            },
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 4.5,
+                "precio_total": 4.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 18,
+        "fecha": "2024-08-05",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 3,
+                "precio_unitario": 3.5,
+                "precio_total": 10.5
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 19,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "diegosanchez",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            },
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 20,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 21,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 5,
+                "precio_unitario": 4.5,
+                "precio_total": 22.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 22,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "juanperez",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 4.5,
+                "precio_total": 13.5
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 23,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 5,
+                "precio_unitario": 3.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 24,
+        "fecha": "2024-08-07",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 5.0,
+                "precio_total": 25.0
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 25,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 1,
+                "precio_unitario": 2.5,
+                "precio_total": 2.5
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 2,
+                "precio_unitario": 2.5,
+                "precio_total": 5.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 26,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "paularojas",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 3,
+                "precio_unitario": 3.5,
+                "precio_total": 10.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 27,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 28,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 29,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 30,
+        "fecha": "2024-08-09",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 1,
+                "precio_unitario": 3.5,
+                "precio_total": 3.5
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 31,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "paularojas",
+        "compras": [
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 1,
+                "precio_unitario": 4.5,
+                "precio_total": 4.5
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            },
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 32,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 33,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 1,
+                "precio_unitario": 2.5,
+                "precio_total": 2.5
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 5.0,
+                "precio_total": 25.0
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 1,
+                "precio_unitario": 4.5,
+                "precio_total": 4.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 34,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 35,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 36,
+        "fecha": "2024-08-11",
+        "nombre_usuario": "diegosanchez",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 37,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 38,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 1,
+                "precio_unitario": 3.5,
+                "precio_total": 3.5
+            },
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            },
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 39,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 1,
+                "precio_unitario": 3.5,
+                "precio_total": 3.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 40,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 2,
+                "precio_unitario": 3.5,
+                "precio_total": 7.0
+            },
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 41,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 1,
+                "precio_unitario": 2.5,
+                "precio_total": 2.5
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 42,
+        "fecha": "2024-08-13",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 43,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 44,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 45,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 5,
+                "precio_unitario": 4.5,
+                "precio_total": 22.5
+            },
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 2,
+                "precio_unitario": 4.5,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 46,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 47,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 3,
+                "precio_unitario": 3.5,
+                "precio_total": 10.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 48,
+        "fecha": "2024-08-15",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 5,
+                "precio_unitario": 3.5,
+                "precio_total": 17.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 49,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 50,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "sofiadiaz",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 51,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "mariagomez",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 52,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "sofiadiaz",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            },
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 5,
+                "precio_unitario": 3.5,
+                "precio_total": 17.5
+            },
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 5.0,
+                "precio_total": 25.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 53,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 54,
+        "fecha": "2024-08-17",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 3,
+                "precio_unitario": 2.5,
+                "precio_total": 7.5
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 55,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "juanperez",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 56,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 57,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 2,
+                "precio_unitario": 2.5,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 58,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 2,
+                "precio_unitario": 2.5,
+                "precio_total": 5.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 59,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 3,
+                "precio_unitario": 4.5,
+                "precio_total": 13.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 60,
+        "fecha": "2024-08-19",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            },
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 61,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "sofiadiaz",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 62,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 5,
+                "precio_unitario": 3.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 1,
+                "precio_unitario": 3.5,
+                "precio_total": 3.5
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 63,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "mariagomez",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 3,
+                "precio_unitario": 3.5,
+                "precio_total": 10.5
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 4,
+                "precio_unitario": 4.0,
+                "precio_total": 16.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 64,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 65,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 1,
+                "precio_unitario": 3.5,
+                "precio_total": 3.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 66,
+        "fecha": "2024-08-21",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 67,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "javierruiz",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 2,
+                "precio_unitario": 3.5,
+                "precio_total": 7.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 68,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 4,
+                "precio_unitario": 4.5,
+                "precio_total": 18.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 5.0,
+                "precio_total": 25.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 69,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 70,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "luismartinez",
+        "compras": [
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            },
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 5,
+                "precio_unitario": 3.5,
+                "precio_total": 17.5
+            },
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 4.5,
+                "precio_total": 22.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 71,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "mariagomez",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 72,
+        "fecha": "2024-08-23",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 7,
+                "nombre_helado": "Philadelphia Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 4.5,
+                "precio_total": 13.5
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 73,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 74,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 4,
+                "precio_unitario": 2.5,
+                "precio_total": 10.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 75,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "diegosanchez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 76,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            },
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 77,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 9,
+                "nombre_helado": "Snow Cream",
+                "cantidad": 3,
+                "precio_unitario": 3.5,
+                "precio_total": 10.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 78,
+        "fecha": "2024-08-25",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 79,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "diegosanchez",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 80,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 1,
+                "precio_unitario": 5.0,
+                "precio_total": 5.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 81,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "analopez",
+        "compras": [
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 5,
+                "precio_unitario": 5.0,
+                "precio_total": 25.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 82,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 5,
+                "precio_unitario": 3.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            },
+            {
+                "id_helado": 15,
+                "nombre_helado": "Vegan Ice Cream",
+                "cantidad": 2,
+                "precio_unitario": 5.0,
+                "precio_total": 10.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 83,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "carloshernandez",
+        "compras": [
+            {
+                "id_helado": 14,
+                "nombre_helado": "Ais Kacang",
+                "cantidad": 2,
+                "precio_unitario": 3.5,
+                "precio_total": 7.0
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            },
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 84,
+        "fecha": "2024-08-27",
+        "nombre_usuario": "juanperez",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 4,
+                "precio_unitario": 3.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 1,
+                "precio_unitario": 3.0,
+                "precio_total": 3.0
+            },
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 85,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 13,
+                "nombre_helado": "Halo-Halo",
+                "cantidad": 1,
+                "precio_unitario": 4.5,
+                "precio_total": 4.5
+            },
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 86,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 2,
+                "precio_unitario": 2.5,
+                "precio_total": 5.0
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            },
+            {
+                "id_helado": 3,
+                "nombre_helado": "Sherbet",
+                "cantidad": 3,
+                "precio_unitario": 3.0,
+                "precio_total": 9.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 87,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "mariagomez",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 88,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "miguelfernandez",
+        "compras": [
+            {
+                "id_helado": 12,
+                "nombre_helado": "Ice Cream Sandwich",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 89,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 11,
+                "nombre_helado": "Faloodeh",
+                "cantidad": 3,
+                "precio_unitario": 4.0,
+                "precio_total": 12.0
+            },
+            {
+                "id_helado": 6,
+                "nombre_helado": "Soft Serve",
+                "cantidad": 2,
+                "precio_unitario": 3.0,
+                "precio_total": 6.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 90,
+        "fecha": "2024-08-29",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 5,
+                "nombre_helado": "Frozen Yogurt",
+                "cantidad": 5,
+                "precio_unitario": 4.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 91,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "fernandomorales",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 92,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "elenagarcia",
+        "compras": [
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 1,
+                "precio_unitario": 4.0,
+                "precio_total": 4.0
+            },
+            {
+                "id_helado": 10,
+                "nombre_helado": "Granita",
+                "cantidad": 3,
+                "precio_unitario": 2.5,
+                "precio_total": 7.5
+            },
+            {
+                "id_helado": 1,
+                "nombre_helado": "Gelato",
+                "cantidad": 2,
+                "precio_unitario": 4.0,
+                "precio_total": 8.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 93,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "javierruiz",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 3,
+                "precio_unitario": 5.0,
+                "precio_total": 15.0
+            },
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 94,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "lauramartinez",
+        "compras": [
+            {
+                "id_helado": 8,
+                "nombre_helado": "Rolled Ice Cream",
+                "cantidad": 4,
+                "precio_unitario": 5.0,
+                "precio_total": 20.0
+            }
+        ],
+        "estado": false
+    },
+    {
+        "id_factura": 95,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "pedrotorres",
+        "compras": [
+            {
+                "id_helado": 4,
+                "nombre_helado": "Sorbet",
+                "cantidad": 5,
+                "precio_unitario": 2.5,
+                "precio_total": 12.5
+            }
+        ],
+        "estado": true
+    },
+    {
+        "id_factura": 96,
+        "fecha": "2024-08-31",
+        "nombre_usuario": "martacastro",
+        "compras": [
+            {
+                "id_helado": 2,
+                "nombre_helado": "Kulfi",
+                "cantidad": 4,
+                "precio_unitario": 3.5,
+                "precio_total": 14.0
+            }
+        ],
+        "estado": false
+    }
+]
