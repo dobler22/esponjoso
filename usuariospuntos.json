@@ -15,8 +15,15 @@
     {
         "id": 2,
         "nombre_usuario": "mariagomez",
-        "puntos": 0,
-        "tarjetas_credito": []
+        "puntos": 15,
+        "tarjetas_credito": [
+            {
+                "numero": "4211 8836 3395 9488",
+                "nombre": "Maria Gomez",
+                "fecha_expiracion": "08/23",
+                "cvv": "335"
+            }
+        ]
     },
     {
         "id": 3,
