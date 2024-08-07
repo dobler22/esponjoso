@@ -6,7 +6,7 @@
         "tarjetas_credito": [
             {
                 "numero": "4528 8914 1142 4454",
-                "nombre": "Nombre en la tarjeta",
+                "nombre": "Juan Perez",
                 "fecha_expiracion": "06/27",
                 "cvv": "158"
             }
@@ -25,7 +25,7 @@
         "tarjetas_credito": [
             {
                 "numero": "4281 8836 3395 9488",
-                "nombre": "Nombre en la tarjeta",
+                "nombre": "Luis Martinez",
                 "fecha_expiracion": "08/23",
                 "cvv": "335"
             }
@@ -56,7 +56,7 @@
         "tarjetas_credito": [
             {
                 "numero": "4911 4789 2921 3401",
-                "nombre": "Nombre en la tarjeta",
+                "nombre": "Miguel Fernandez",
                 "fecha_expiracion": "06/25",
                 "cvv": "620"
             }
@@ -69,7 +69,7 @@
         "tarjetas_credito": [
             {
                 "numero": "4992 1481 3651 6097",
-                "nombre": "Nombre en la tarjeta",
+                "nombre": "Luis Martinez",
                 "fecha_expiracion": "06/29",
                 "cvv": "487"
             }
@@ -82,7 +82,7 @@
         "tarjetas_credito": [
             {
                 "numero": "4877 4808 8978 8524",
-                "nombre": "Nombre en la tarjeta",
+                "nombre": "Pedro Torres",
                 "fecha_expiracion": "08/28",
                 "cvv": "872"
             }
