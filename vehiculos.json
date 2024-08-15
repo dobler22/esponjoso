@@ -10,6 +10,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 5,
+        "Precio":30,
         "IdPropietario": 9,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -24,6 +25,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": "2024-07-17",
         "Contador": 1,
+        "Precio":25,
         "IdPropietario": 5,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -38,6 +40,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-07-27",
         "Contador": 8,
+        "Precio":45,
         "IdPropietario": 3,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -52,6 +55,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-08-10",
         "Contador": 8,
+        "Precio":37,
         "IdPropietario": 3,
         "Img": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
     },
@@ -66,6 +70,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": null,
         "Contador": 9,
+        "Precio":32,
         "IdPropietario": 6,
         "Img": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
     },
@@ -80,6 +85,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-07-20",
         "Contador": 6,
+        "Precio":25,
         "IdPropietario": 7,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -94,6 +100,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-07-19",
         "Contador": 2,
+        "Precio":45,
         "IdPropietario": 8,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -108,6 +115,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": "2024-08-03",
         "Contador": 6,
+        "Precio":25,
         "IdPropietario": 9,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -122,6 +130,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 4,
+        "Precio":34,
         "IdPropietario": 2,
         "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
@@ -136,6 +145,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 4,
+        "Precio":25,
         "IdPropietario": 3,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -150,6 +160,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-08-05",
         "Contador": 7,
+        "Precio":27,
         "IdPropietario": 5,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -164,6 +175,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 3,
+        "Precio":25,
         "IdPropietario": 1,
         "Img": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
     },
@@ -178,6 +190,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 0,
+        "Precio":28,
         "IdPropietario": 3,
         "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
@@ -192,6 +205,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": "2024-08-04",
         "Contador": 0,
+        "Precio":25,
         "IdPropietario": 7,
         "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
@@ -206,6 +220,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": "2024-07-28",
         "Contador": 4,
+        "Precio":29,
         "IdPropietario": 5,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -220,6 +235,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": null,
         "Contador": 5,
+        "Precio":25,
         "IdPropietario": 1,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -234,6 +250,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 10,
+        "Precio":25,
         "IdPropietario": 4,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -248,6 +265,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 0,
+        "Precio":25,
         "IdPropietario": 2,
         "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
@@ -262,6 +280,7 @@
         "EstadoAlquiler": "Alquilado",
         "FechaAlquiler": null,
         "Contador": 0,
+        "Precio":25,
         "IdPropietario": 2,
         "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
@@ -276,6 +295,7 @@
         "EstadoAlquiler": "Disponible",
         "FechaAlquiler": "2024-07-28",
         "Contador": 10,
+        "Precio":25,
         "IdPropietario": 7,
         "Img": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
     }
