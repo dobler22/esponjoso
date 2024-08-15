@@ -3,15 +3,15 @@
         "ID": 1,
         "Marca": "Toyota",
         "Modelo": "Corolla",
-        "Año": 2020,
+        "Ano": 2020,
         "Color": "Negro",
-        "Numero de Placa": "834-XYZ",
+        "NumeroPlaca": "834-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 5,
-        "Propietario ID": 9,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 9,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 2,
@@ -19,13 +19,13 @@
         "Modelo": "Mustang",
         "Año": 2011,
         "Color": "Rojo",
-        "Numero de Placa": "137-XYZ",
+        "NumeroPlaca": "137-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": "2024-07-17",
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": "2024-07-17",
         "Contador": 1,
-        "Propietario ID": 5,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 5,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 3,
@@ -33,13 +33,13 @@
         "Modelo": "Mustang",
         "Año": 2010,
         "Color": "Rojo",
-        "Numero de Placa": "731-XYZ",
+        "NumeroPlaca": "731-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-07-27",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-07-27",
         "Contador": 8,
-        "Propietario ID": 3,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 3,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 4,
@@ -47,13 +47,13 @@
         "Modelo": "Camaro",
         "Año": 2012,
         "Color": "Negro",
-        "Numero de Placa": "850-XYZ",
+        "NumeroPlaca": "850-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-08-10",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-08-10",
         "Contador": 8,
-        "Propietario ID": 3,
-        "Imagen URL": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
+        "IdPropietario": 3,
+        "Img": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
     },
     {
         "ID": 5,
@@ -61,13 +61,13 @@
         "Modelo": "Model 3",
         "Año": 2010,
         "Color": "Blanco",
-        "Numero de Placa": "213-XYZ",
+        "NumeroPlaca": "213-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": null,
         "Contador": 9,
-        "Propietario ID": 6,
-        "Imagen URL": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
+        "IdPropietario": 6,
+        "Img": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
     },
     {
         "ID": 6,
@@ -75,13 +75,13 @@
         "Modelo": "Mustang",
         "Año": 2021,
         "Color": "Azul",
-        "Numero de Placa": "161-XYZ",
+        "NumeroPlaca": "161-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-07-20",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-07-20",
         "Contador": 6,
-        "Propietario ID": 7,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 7,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 7,
@@ -89,13 +89,13 @@
         "Modelo": "Corolla",
         "Año": 2016,
         "Color": "Negro",
-        "Numero de Placa": "521-XYZ",
+        "NumeroPlaca": "521-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-07-19",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-07-19",
         "Contador": 2,
-        "Propietario ID": 8,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 8,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 8,
@@ -103,13 +103,13 @@
         "Modelo": "Corolla",
         "Año": 2020,
         "Color": "Rojo",
-        "Numero de Placa": "344-XYZ",
+        "NumeroPlaca": "344-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": "2024-08-03",
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": "2024-08-03",
         "Contador": 6,
-        "Propietario ID": 9,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 9,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 9,
@@ -117,13 +117,13 @@
         "Modelo": "Civic",
         "Año": 2018,
         "Color": "Rojo",
-        "Numero de Placa": "714-XYZ",
+        "NumeroPlaca": "714-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 4,
-        "Propietario ID": 2,
-        "Imagen URL": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
+        "IdPropietario": 2,
+        "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
     {
         "ID": 10,
@@ -131,13 +131,13 @@
         "Modelo": "Corolla",
         "Año": 2010,
         "Color": "Rojo",
-        "Numero de Placa": "116-XYZ",
+        "NumeroPlaca": "116-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 4,
-        "Propietario ID": 3,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 3,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 11,
@@ -145,13 +145,13 @@
         "Modelo": "Corolla",
         "Año": 2014,
         "Color": "Rojo",
-        "Numero de Placa": "832-XYZ",
+        "NumeroPlaca": "832-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-08-05",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-08-05",
         "Contador": 7,
-        "Propietario ID": 5,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 5,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 12,
@@ -159,13 +159,13 @@
         "Modelo": "Camaro",
         "Año": 2013,
         "Color": "Blanco",
-        "Numero de Placa": "107-XYZ",
+        "NumeroPlaca": "107-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 3,
-        "Propietario ID": 1,
-        "Imagen URL": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
+        "IdPropietario": 1,
+        "Img": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/design/v2/2024-camaro-collector-ed-4v2.png"
     },
     {
         "ID": 13,
@@ -173,13 +173,13 @@
         "Modelo": "Civic",
         "Año": 2010,
         "Color": "Blanco",
-        "Numero de Placa": "175-XYZ",
+        "NumeroPlaca": "175-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 0,
-        "Propietario ID": 3,
-        "Imagen URL": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
+        "IdPropietario": 3,
+        "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
     {
         "ID": 14,
@@ -187,13 +187,13 @@
         "Modelo": "Civic",
         "Año": 2010,
         "Color": "Rojo",
-        "Numero de Placa": "212-XYZ",
+        "NumeroPlaca": "212-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": "2024-08-04",
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": "2024-08-04",
         "Contador": 0,
-        "Propietario ID": 7,
-        "Imagen URL": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
+        "IdPropietario": 7,
+        "Img": "https://www.cars.com/i/large/in/v2/stock_photos/7bb5cb1c-0348-4e7a-a1e8-cd9cca7666f4/004b0087-e6bc-4df3-a0c6-86c28075d724.png"
     },
     {
         "ID": 15,
@@ -201,13 +201,13 @@
         "Modelo": "Mustang",
         "Año": 2010,
         "Color": "Blanco",
-        "Numero de Placa": "432-XYZ",
+        "NumeroPlaca": "432-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": "2024-07-28",
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": "2024-07-28",
         "Contador": 4,
-        "Propietario ID": 5,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 5,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 16,
@@ -215,13 +215,13 @@
         "Modelo": "Mustang",
         "Año": 2011,
         "Color": "Rojo",
-        "Numero de Placa": "726-XYZ",
+        "NumeroPlaca": "726-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": null,
         "Contador": 5,
-        "Propietario ID": 1,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 1,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 17,
@@ -229,13 +229,13 @@
         "Modelo": "Corolla",
         "Año": 2010,
         "Color": "Negro",
-        "Numero de Placa": "555-XYZ",
+        "NumeroPlaca": "555-XYZ",
         "Disponible": true,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 10,
-        "Propietario ID": 4,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 4,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 18,
@@ -243,13 +243,13 @@
         "Modelo": "Mustang",
         "Año": 2016,
         "Color": "Azul",
-        "Numero de Placa": "280-XYZ",
+        "NumeroPlaca": "280-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 0,
-        "Propietario ID": 2,
-        "Imagen URL": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
+        "IdPropietario": 2,
+        "Img": "https://platform.cstatic-images.com/in/v2/stock_photos/90884105-7fd5-4da9-8479-27e482a4e479/2b678835-3279-4de7-8047-36484d4e2900.png"
     },
     {
         "ID": 19,
@@ -257,13 +257,13 @@
         "Modelo": "Corolla",
         "Año": 2016,
         "Color": "Rojo",
-        "Numero de Placa": "648-XYZ",
+        "NumeroPlaca": "648-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Alquilado",
-        "Fecha de Alquiler": null,
+        "EstadoAlquiler": "Alquilado",
+        "FechaAlquiler": null,
         "Contador": 0,
-        "Propietario ID": 2,
-        "Imagen URL": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
+        "IdPropietario": 2,
+        "Img": "https://i.pinimg.com/originals/e2/86/11/e286116013bb23582db360dd12d593e3.png"
     },
     {
         "ID": 20,
@@ -271,12 +271,12 @@
         "Modelo": "Model 3",
         "Año": 2014,
         "Color": "Rojo",
-        "Numero de Placa": "980-XYZ",
+        "NumeroPlaca": "980-XYZ",
         "Disponible": false,
-        "Estado de Alquiler": "Disponible",
-        "Fecha de Alquiler": "2024-07-28",
+        "EstadoAlquiler": "Disponible",
+        "FechaAlquiler": "2024-07-28",
         "Contador": 10,
-        "Propietario ID": 7,
-        "Imagen URL": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
+        "IdPropietario": 7,
+        "Img": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png"
     }
 ]
